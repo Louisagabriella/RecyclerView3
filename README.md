@@ -23,10 +23,6 @@ Jika Anda ingin mencari tanpa menscroll tulis saja nam ahotel dengan menekan dah
 saat anda menekan setting maka akan tampil seperti dibawahini <br>
 ![rv3 4 2](https://cloud.githubusercontent.com/assets/21364340/20218662/8720c668-a7da-11e6-9ab2-7522955d0a23.png)
 
-#Link APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9VxeoSWZhZUFQWGZyLU0
- <br> <br> <br>
-
 # Identitas <br>
 NAMA : LOUISA GABRIELLA <br>
 KELAS : XI RPL 5 <br>
